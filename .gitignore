@@ -1,0 +1,12 @@
+target
+.history
+.DS_Store
+.cache
+/.idea
+.idea
+/*.iml
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
