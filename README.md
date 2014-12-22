@@ -9,4 +9,4 @@ The exact path where those libraries are located in the Processing folder, is OS
 
 After cloning, use `sbt run` to run the applet.
 Use 1, 2 or 3 keys to switch between sketches.
-Use `sbt one-jar` to package everything in single jar that can be run with `java -jar <jar-name>.jar`.
+Use `sbt one-jar` to package everything in a single jar that can be run with `java -jar <jar-name>.jar`.
